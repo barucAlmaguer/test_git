@@ -1,2 +1,2 @@
-def printNUm(x):
-	print("numero: {}".format(x))
+def printNUm(x, y):
+	print("numero: {} {}".format(x, y))
