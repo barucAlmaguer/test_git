@@ -7,3 +7,6 @@ def printList(l):
 
 def f(x):
 	print(x)
+
+def g(x):
+	print(x)
