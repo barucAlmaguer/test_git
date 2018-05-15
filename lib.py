@@ -1,2 +1,6 @@
 def printNUm(x):
-	print("numero: {}".format(x))
+	print("NUMERO: {}".format(x))
+
+def printList(l):
+	for i in l:
+		print("dato: {}".format(i))
