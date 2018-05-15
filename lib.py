@@ -10,3 +10,6 @@ def f(x):
 
 def g(x):
 	print(x)
+
+def h(x):
+	print(x)
