@@ -4,3 +4,6 @@ def printNUm(x, y):
 def printList(l):
 	for i in l:
 		print("dato: {}".format(i))
+
+def f(x):
+	print(x)
